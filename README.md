@@ -1,7 +1,6 @@
 ### Hi there, I'm Nikita - aka Rensys 👋
 
 ## I'm just a user who really wants to learn programming!
----
 - 💻 I am currently working on various personal projects
 - 🌱 I am currently learning everything
 - 🧑‍💻 I am looking to collaborate with other content creators
