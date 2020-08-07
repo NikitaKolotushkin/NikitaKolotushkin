@@ -7,7 +7,6 @@
 - 🏆 2020 Goals: Create and contribute to Open Source projects
 - ⚡ Fun fact: I love videogames and assemble computers
 
-<br />
 
 ### Languages and Tools:
 
