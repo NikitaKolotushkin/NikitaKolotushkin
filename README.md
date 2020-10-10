@@ -1,4 +1,5 @@
-### Hi there, I'm Nikita - aka Rensys 
+### Hi there, I'm Rensys 
+![Profile views](https://gpvc.arturio.dev/NikitaKolotushkin)
 - 💻 I am currently working on various personal projects
 - 🌱 I am currently learning everything
 - 🧑‍💻 I am looking to collaborate with other content creators
