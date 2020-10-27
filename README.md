@@ -2,7 +2,7 @@
 ![Profile views](https://gpvc.arturio.dev/NikitaKolotushkin)
 + 💻 I am currently working on various personal projects
 + 🌱 I am currently learning everything
-+ 💻 I am looking to collaborate with other content creators
++ 👨‍💼 I am looking to collaborate with other content creators
 + 🏆 2020 Goals: Create and contribute to Open Source projects
 + ⚡ Fun facts: I love videogames and assemble computers
 
