@@ -3,7 +3,7 @@
 + 💻 I am currently working on various personal projects
 + 🌱 I am currently learning everything
 + 👨‍💼 I am looking to collaborate with other content creators
-+ 🏆 2020 Goals: Create and contribute to Open Source projects
++ 🏆 2021 Goals: Create and contribute to Open Source projects
 + ❤️ Fun facts: I love videogames and assemble computers
 
 
