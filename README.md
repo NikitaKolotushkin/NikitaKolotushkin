@@ -1,12 +1,5 @@
 ### Hi there, I'm Rensys 
 ![Profile views](https://gpvc.arturio.dev/NikitaKolotushkin)
-+ 💻 I am currently working on various personal projects
-+ 🌱 I am currently learning everything
-+ 👨‍💼 I am looking to collaborate with other content creators
-+ 🏆 2021 Goals: Create and contribute to Open Source projects
-+ ❤️ Fun facts: I love videogames and assemble computers
-
-
 ### Languages and Tools:
 
 [<img align="left" alt="Vim" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][gitprofile]
