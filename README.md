@@ -1,5 +1,16 @@
-### Hi there, I'm Rensys 
+<pre align='center'>
+██████╗ ███████╗███╗   ██╗███████╗██╗   ██╗███████╗
+██╔══██╗██╔════╝████╗  ██║██╔════╝╚██╗ ██╔╝██╔════╝
+██████╔╝█████╗  ██╔██╗ ██║███████╗ ╚████╔╝ ███████╗
+██╔══██╗██╔══╝  ██║╚██╗██║╚════██║  ╚██╔╝  ╚════██║
+██║  ██║███████╗██║ ╚████║███████║   ██║   ███████║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚══════╝
+</pre>
+
+
+### Hi there, I'm Rensys
 ![Profile views](https://gpvc.arturio.dev/NikitaKolotushkin)
+
 ### Languages and Tools:
 
 [<img align="left" alt="Vim" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />][gitprofile]
@@ -18,14 +29,7 @@
 
 ---
 
-<pre align='center'>
-██████╗ ███████╗███╗   ██╗███████╗██╗   ██╗███████╗
-██╔══██╗██╔════╝████╗  ██║██╔════╝╚██╗ ██╔╝██╔════╝
-██████╔╝█████╗  ██╔██╗ ██║███████╗ ╚████╔╝ ███████╗
-██╔══██╗██╔══╝  ██║╚██╗██║╚════██║  ╚██╔╝  ╚════██║
-██║  ██║███████╗██║ ╚████║███████║   ██║   ███████║
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚══════╝
-</pre>
+
 
 <!-- <img align="left" alt="Rensys's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NikitaKolotushkin&show_icons=true&hide_border=true" /> -->
 <!-- <img align="left" alt="Rensys's Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaKolotushkin" /> -->
