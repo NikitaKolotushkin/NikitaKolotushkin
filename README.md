@@ -8,7 +8,6 @@
 ██║  ██║███████╗██║ ╚████║███████║   ██║   ███████║
 ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚══════╝
 
-
 </pre>
 
 ![Profile views](https://gpvc.arturio.dev/NikitaKolotushkin)
