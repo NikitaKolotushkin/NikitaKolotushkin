@@ -7,8 +7,6 @@
 ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚══════╝
 </pre>
 
-
-### Hi there, I'm Rensys
 ![Profile views](https://gpvc.arturio.dev/NikitaKolotushkin)
 
 ### Languages and Tools:
